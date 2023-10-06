@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\bin\Debug\net7.0\c#-cronometro.exe
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\bin\Debug\net7.0\c#-cronometro.deps.json
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\bin\Debug\net7.0\c#-cronometro.runtimeconfig.json
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\bin\Debug\net7.0\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\bin\Debug\net7.0\c#-cronometro.pdb
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\refint\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.pdb
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\c#-cronometro.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Programming\c#-cronometro\obj\Debug\net7.0\ref\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\bin\Debug\net7.0\c#-cronometro.exe
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\bin\Debug\net7.0\c#-cronometro.deps.json
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\bin\Debug\net7.0\c#-cronometro.runtimeconfig.json
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\bin\Debug\net7.0\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\bin\Debug\net7.0\c#-cronometro.pdb
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\refint\c#-cronometro.dll
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.pdb
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\c#-cronometro.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Programming\Projeto Cronometro - C#\obj\Debug\net7.0\ref\c#-cronometro.dll
